@@ -1,0 +1,57 @@
+export const portefolioData = [
+  {
+    id: 1,
+    name: "Curriculum vitæ",
+    languages: ["javascript", "css", "react"],
+    languagesIcons: ["fab fa-js", "fab fa-css3-alt", "fab fa-react"],
+    source: "https://github.com/noeljuillerat/react-cv",
+    info: "Réalisation d'un CV/Portefolio avec RéactJS.",
+    picture: "./media/CV.png",
+  },
+  {
+    id: 2,
+    name: "Bubble",
+    languages: ["javascript", "css"],
+    languagesIcons: ["fab fa-js", "fab fa-css3-alt"],
+    source:
+      "https://noeljuillerat.github.io/TP-HTML/JSS/JS-A-to-Z-f2167797862d3a006c5872a5547ff5f3fdb8947c/bubble-js/index.html",
+    info: "Exercice réunissant CSS et Javascript pour créer des bulles mobiles et cliquables.",
+    picture: "./media/bubble.png",
+  },
+  {
+    id: 3,
+    name: "Ikouq",
+    languages: ["javascript", "php", "symfony"],
+    languagesIcons: ["fab fa-js", "fab fa-php", "fab fa-symfony"],
+    source: "https://github.com/juilleratn/Ikouq/blob/master/accueil.png",
+    info: "Ce projet consiste à réaliser un site web dynamique dit “portail web” réunissant des recettes pour les principaux de régimes alimentaires (Végétarien, hyperprotéiné, vegan, et caetera). Il s’agit de faire découvrir le patrimoine gastronomique en respectant des caractéristiques alimentaires strictes. Les objectifs principaux sont donc les suivants : Partage de recettes Casser l’image négative sur les différents régimes Sensibiliser sur les valeurs énergétiques des produits utilisés et des recettes cuisinées",
+    picture: "./media/ikouq.png",
+  },
+  {
+    id: 4,
+    name: "Pokemon Battle",
+    languages: ["php", "javascript"],
+    languagesIcons: ["fab fa-js", "fab fa-php"],
+    source: "https://github.com/juilleratn/Pokemon",
+    info: "Ce projet consiste à réaliser un site web dynamique sur le theme d'un duel entre deux pokemons choisis après le login des deux joueurs. ",
+    picture: "./media/pokemon.JPG",
+  },
+  /* {
+    id: 5,
+    name: "repudiante.com",
+    languages: ["javascript", "css"],
+    languagesIcons: ["fab fa-js", "fab fa-css3-alt"],
+    source: "http://www.github.com",
+    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    picture: "./media/project5.JPG",
+  },
+  {
+    id: 6,
+    name: "test.io",
+    languages: ["javascript", "react", "css"],
+    languagesIcons: ["fab fa-js", "fab fa-react", "fab fa-css3-alt"],
+    source: "http://www.github.com",
+    info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.",
+    picture: "./media/project6.JPG",
+  }, */
+];
