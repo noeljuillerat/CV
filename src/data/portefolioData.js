@@ -34,7 +34,7 @@ export const portefolioData = [
     languagesIcons: ["fab fa-js", "fab fa-php"],
     source: "https://github.com/juilleratn/Pokemon",
     info: "Ce projet consiste à réaliser un site web dynamique sur le theme d'un duel entre deux pokemons choisis après le login des deux joueurs. ",
-    picture: "./media/pokemon.JPG",
+    picture: "./media/pokemon.jpg",
   },
   /* {
     id: 5,

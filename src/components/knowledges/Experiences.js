@@ -22,7 +22,7 @@ const Experiences = () => {
         <p>
           Stage de validation du titre professionnel. Maintenance du site web de
           l’entreprise et développement d’une application de gestion
-          d’interventionsNom de la société
+          d’interventions.
         </p>
       </div>
     </div>
