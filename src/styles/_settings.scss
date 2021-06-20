@@ -4,17 +4,14 @@ $font-1: "Nova Round", cursive;
 $font-2: "Dosis", sans-serif;
 $font-3: "Josefin Sans", serif;
 
-//$color-1: #2a1d52;
-$color-1: #1e3d59;
-//$color-2: #6c77f4;
-$color-2: #ebe1be;
-//$color-3: rgb(99, 164, 233);
-$color-3: rgba(191, 170, 143, 0.95);
-//$color-4: #4fedd2;
-$color-4: #ff6e40;
-//$color-5: #36d0ea;
-$color-5: #ffc13b;
+// Sépia, bleu canard, beige et vert sauge
+$color-1: #097770; //fond  accueil
+$color-2: #e0cdbe; // fond compétences/portefolio //#ebe1be;
+$color-3: #14948b; // Titre fond contact //rgba(191, 170, 143, 0.95);
+$color-4: #edca82; // hover
+$color-5: #9eb39b; // nav logo contact
 $color-6: rgb(114, 112, 112);
+
 $white: #ddd;
 $black: #333;
 
